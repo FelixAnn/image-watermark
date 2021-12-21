@@ -4,7 +4,7 @@
     "webpack-cli": "^4.9.1"
   },
   "name": "image-watermark",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "js利用canvas给图片添加水印",
   "main": "index.js",
   "dependencies": {
