@@ -1,5 +1,31 @@
 {
   "devDependencies": {
+    "typescript": "^4.5.4",
     "webpack-cli": "^4.9.1"
-  }
+  },
+  "name": "image-watermark",
+  "version": "1.0.0",
+  "description": "js利用canvas给图片添加水印",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixAnn/image-watermark.git"
+  },
+  "keywords": [
+    "js",
+    "canvas",
+    "watermark",
+    "水印"
+  ],
+  "author": "FelixAn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelixAnn/image-watermark/issues"
+  },
+  "homepage": "https://github.com/FelixAnn/image-watermark#readme"
 }
